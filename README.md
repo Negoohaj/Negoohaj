@@ -1,16 +1,14 @@
-## Hi there 👋
+### Olá, sou o Hugo 👋
 
-<!--
-**Negoohaj/Negoohaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação (6º semestre), em transição para o mercado de T.I., com foco em Desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando em: **[InventoryApp](https://github.com/Negoohaj/InventoryApp)** — sistema de controle de estoque em React Native + Expo, usado na prática por um pequeno negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo: JavaScript, React, Node.js e SQL
+
+💬 Aberto a oportunidades de estágio em Florianópolis, São Paulo e remoto
+
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/hugo-aj-tech/) · hugo.aj.tech@gmail.com
+
+---
+⭐ Confira meu projeto em destaque: [InventoryApp](https://github.com/Negoohaj/InventoryApp)
